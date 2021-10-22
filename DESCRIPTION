@@ -1,0 +1,11 @@
+Package: bruteforce
+Title: Knapsack Project
+Description: To get the optimzed values and possible combination for maximum
+        weight
+Version: 0.0
+License:
+Author: Iftikhar Ahmad <iftich2002@gmail.com>
+Maintainer: Iftikhar Ahmad <iftich2002@gmail.com>
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
